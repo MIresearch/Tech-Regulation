@@ -9,12 +9,12 @@
   gtag('config', 'UA-166686264-2');
 </script>
 
-<!-- Default Statcounter code for The Community Explorer
-https://miresearch.github.io/Community-Explorer/ -->
+<!-- Default Statcounter code for Tech regulation
+https://miresearch.github.io/Tech-Regulation/ -->
 <script type="text/javascript">
-var sc_project=12481025; 
+var sc_project=12500377; 
 var sc_invisible=1; 
-var sc_security="74862afb"; 
+var sc_security="8502ecba"; 
 var sc_https=1; 
 </script>
 <script type="text/javascript"
@@ -23,7 +23,7 @@ async></script>
 <noscript><div class="statcounter"><a title="Web Analytics"
 href="https://statcounter.com/" target="_blank"><img
 class="statcounter"
-src="https://c.statcounter.com/12481025/0/74862afb/1/"
+src="https://c.statcounter.com/12500377/0/8502ecba/1/"
 alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
