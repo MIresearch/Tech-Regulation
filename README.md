@@ -31,13 +31,15 @@ alt="Web Analytics"></a></div></noscript>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
 
-<H2><b> Tech-Related Regulation</b> </H2> <Hr>
+<H2><b> Tech-Related Regulatory Milestones</b> </H2> <Hr>
 
-2020-2021 marks a turning point in the US and China's regulatory approach to tech companies, including BigTech. Their initial laissez-faire approach favored these companies' growth, focusing on the positive spillovers their innovation had on the population and the countries' economy. However, recent scandals, especially regarding data mismanagement and privacy issues, led to a shift in both countries' public opinions, triggering a change in regulatory stance.
+Policy discussions and initiatives related to the economy's digitalization are omnipresent nowadays. Big Tech companies have gained a lot of attention from regulators and legislators on data privacy, antitrust, cybersecurity and financial stability issues. The recent pandemic highlighted other tech-related issues, such as digital divide, racial equity, freedom of speech and the need for international technology governance.
 
-The interactivetimeline present the recent key regulatory changes in the US, Europe and China.
+These issues are not new. European Union (EU) regulators have been focusing on some of them for quite some time. The European Commission has announced a major overhaul of the current EU’s legal framework, the Digital Services Act, which will include imposing rules on platforms indispensable for companies to reach consumers and access online markets. The novelty for 2021 is that the US and China will enter the regulatory arena too. It matters as both countries are home to most of the Big Tech companies.
 
-<H2>Interactive Timeline</H2>
+The timeline below documents the most important regulatory developments in China, Europe, & U.S.
+
+<H2>Key TEchEvents Regulatory Changes in the China, Interactive Timeline</H2>
 <center><iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VILrv712jmHpwZ5K_T0dDxYw-fzYb023bBTdxqUGo80&amp;font=Default&amp;lang=en&amp;initial_zoom=1&amp;height=650" width="100%" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe></center>
 
 
