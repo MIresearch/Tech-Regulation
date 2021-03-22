@@ -41,9 +41,17 @@ The timeline below documents the most important regulatory developments in China
 
 <H2>Key Tech-related Regulatory Changes in China, Europe and the US</H2>
 <center><iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VILrv712jmHpwZ5K_T0dDxYw-fzYb023bBTdxqUGo80&amp;font=Default&amp;lang=en&amp;initial_zoom=1&amp;height=650" width="100%" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe></center>
+Source: Milken Institute Research Department
 
-
-
+<H2>Related Work  </H2>
+-<a href="https:/https://www.orfonline.org/expert-speak/principles-financial-regulation-big-tech/" target="_blank"> Principles of financial regulation for Big Tech </a> <br>
+-<a href="https://www.milkenreview.org/articles/the-promise-and-peril-of-digital-currency-in-a-global-economy#.X72jxvfMmD8.linkedin" target="_blank"> The Promise and Peril of Digital Currency in a Global Economy</a> <br>
+-<a href="https://milkeninstitute.org/reports/bigtech-companies-inclusive-and-global-regulatory-framework-needed" target="_blank"> BigTech Companies: An Inclusive and Global Regulatory Framework is Needed</a><br>
+-<a href="https://https://milkeninstitute.org/research-department/g20-t20-initiative/digital-money" target="_blank"> Digital Money Is Here: G20 (Thinking) Must Go Digital</a><br>
+-<a href="https://milkeninstitute.org/reports/crypto-assets-experience" target="_blank"> The Crypto-Assets Experience</a><br>
+<Br>
+  
+<a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
 <br>
 <br>
 <Bh>
