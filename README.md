@@ -38,8 +38,7 @@ alt="Web Analytics"></a></div></noscript>
 The interactivetimeline present the recent key regulatory changes in the US, Europe and China.
 
 <H2>Interactive Timeline</H2>
-<center><iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VILrv712jmHpwZ5K_T0dDxYw-fzYb023bBTdxqUGo80&amp;font=Default&amp;lang=en&amp;initial_zoom=1&amp;width="100%" height="700" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe></center>
-<center><iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VILrv712jmHpwZ5K_T0dDxYw-fzYb023bBTdxqUGo80&amp;font=Default&amp;lang=en&amp;initial_zoom=1&amp;height=650" width="1200" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe></center>
+<center><iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VILrv712jmHpwZ5K_T0dDxYw-fzYb023bBTdxqUGo80&amp;font=Default&amp;lang=en&amp;initial_zoom=1&amp;height=650" width="100%" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe></center>
 
 
 
