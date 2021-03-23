@@ -31,7 +31,7 @@ alt="Web Analytics"></a></div></noscript>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
 
-<H2><b> Tech-Related Regulatory Milestones</b> </H2> <Hr>
+<H2><b> Tech-Regulation Tracker</b> </H2> <Hr>
 
 Policy discussions and initiatives related to the economy's digitalization are omnipresent nowadays. Big Tech companies have gained a lot of attention from regulators and legislators on data privacy, antitrust, cybersecurity and financial stability issues. The recent pandemic highlighted other tech-related issues, such as digital divide, racial equity, freedom of speech and the need for international technology governance.
 
