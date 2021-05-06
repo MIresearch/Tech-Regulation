@@ -35,10 +35,10 @@ alt="Web Analytics"></a></div></noscript>
 
 Policy discussions and initiatives related to the economy's digitalization are omnipresent nowadays. Big Tech companies have gained a lot of attention from regulators and legislators on data privacy, antitrust, cybersecurity and financial stability issues. The recent pandemic highlighted other tech-related issues, such as digital divide, racial equity, freedom of speech and the need for international technology governance.
 
-In the report <b><a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Share%20the%20Data.pdf" target="_blank">"Share the Data: Overcoming Trade-Offs in Tech Regulation" </a></b> we highlight 3 main challenges facing regulators & legislators:
-1) Promoting market efficiencies will minimizing antitrust issues. 
-2) Strengthening financial inclusion while ensuring financial stability. 
-3) Improving consumer welfare while limiting data usage misconduct. 
+In the report <b><a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Share%20the%20Data.pdf" target="_blank">"Share the Data: Overcoming Trade-Offs in Tech Regulation" </a></b> we highlight 3 main challenges facing regulators & legislators:<br>
+1) Promoting market efficiencies will minimizing antitrust issues. <br>
+2) Strengthening financial inclusion while ensuring financial stability. <br>
+3) Improving consumer welfare while limiting data usage misconduct. <br>
 
 While the outlook for int'l coordination on these issues looks bleak, we believe there is an opportunity for cross-border consistency in data sharing standards. We define it as the combination of (i) data portability, (ii) platforms’ interoperability, and (iii) data reciprocity. This would restore consumer choice and strengthen competition in tech companies’ different economic sectors. We outline how giving consumers greater opportunities to control their data can mitigate concerns related to antitrust, financial stability, and privacy.
 
