@@ -35,7 +35,12 @@ alt="Web Analytics"></a></div></noscript>
 
 Policy discussions and initiatives related to the economy's digitalization are omnipresent nowadays. Big Tech companies have gained a lot of attention from regulators and legislators on data privacy, antitrust, cybersecurity and financial stability issues. The recent pandemic highlighted other tech-related issues, such as digital divide, racial equity, freedom of speech and the need for international technology governance.
 
-These issues are not new. European Union (EU) regulators have been focusing on some of them for quite some time. The European Commission has announced a major overhaul of the current EU’s legal framework, the Digital Services Act, which will include imposing rules on platforms indispensable for companies to reach consumers and access online markets. The novelty for 2021 is that the US and China will enter the regulatory arena too. It matters as both countries are home to most of the Big Tech companies.
+In the report <b><a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Share%20the%20Data.pdf" target="_blank">"Share the Data: Overcoming Trade-Offs in Tech Regulation" </b> we highlight 3 main challenges facing regulators & legislators:
+1) Promoting market efficiencies will minimizing antitrust issues. 
+2) Strengthening financial inclusion while ensuring financial stability. 
+3) Improving consumer welfare while limiting data usage misconduct. 
+
+While the outlook for int'l coordination on these issues looks bleak, we believe there is an opportunity for cross-border consistency in data sharing standards. We define it as the combination of (i) data portability, (ii) platforms’ interoperability, and (iii) data reciprocity. This would restore consumer choice and strengthen competition in tech companies’ different economic sectors. We outline how giving consumers greater opportunities to control their data can mitigate concerns related to antitrust, financial stability, and privacy.
 
 The timeline below documents the most important regulatory developments in China, Europe, & U.S.
 
