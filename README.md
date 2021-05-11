@@ -44,6 +44,7 @@ As a complement, <b>the timeline below documents the most important Tech-related
 Source: Milken Institute Research Department
 
 <H2>Related Work  </H2>
+-<a href="https://www.iai.it/en/pubblicazioni/near-future-central-bank-digital-currencies" target="_blank">The (Near) Future of Central Bank Digital Currencies </a> <br>
 -<a href="https://www.peterlang.com/view/9783034342919/9783034342919.00015.xml" target="_blank"> Digital Currency: A Global Regulatory Framework is Needed </a> <br>
 -<a href="https://www.orfonline.org/expert-speak/principles-financial-regulation-big-tech/" target="_blank"> Principles of financial regulation for Big Tech </a> <br>
 -<a href="https://www.milkenreview.org/articles/the-promise-and-peril-of-digital-currency-in-a-global-economy" target="_blank"> The Promise and Peril of Digital Currency in a Global Economy</a> <br>
