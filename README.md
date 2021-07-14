@@ -40,7 +40,7 @@ In the report <b><a href="https://milkeninstitute.org/sites/default/files/report
 As a complement, <b>the timeline below documents the most important Tech-related regulatory developments in China, Europe, & U.S.</b>
 
 <H2>Key Tech-Related Regulatory Changes in China, Europe and the US</H2>
-<center><iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VILrv712jmHpwZ5K_T0dDxYw-fzYb023bBTdxqUGo80&amp;font=Default&amp;lang=en&amp;initial_zoom=1&amp;height=650" width="100%" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe></center>
+<center><iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VILrv712jmHpwZ5K_T0dDxYw-fzYb023bBTdxqUGo80&font=Default&lang=en&start_at_end=true&initial_zoom=1&height=650" width="100%" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe></center>
 Source: Milken Institute Research Department
 
 <H2>Related Work  </H2>
