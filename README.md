@@ -38,6 +38,14 @@ Policy discussions and initiatives related to the economy's digitalization are o
 In the report <b><a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Share%20the%20Data.pdf" target="_blank">"Share the Data: Overcoming Trade-Offs in Tech Regulation" </a></b> we discuss how cross-border consistency in data sharing standards, combining data portability, platforms’ interoperability, and data reciprocity, could restore consumer choice and strengthen competition in tech companies’ different economic sectors. We outline how giving consumers greater opportunities to control their data can mitigate concerns related to antitrust, financial stability, and privacy.
 
 As a complement, <b>the timeline below documents the most important Tech-related regulatory developments in China, Europe, & U.S.</b>
+<H2> TechReg news recap June/July </H2>
+ - France's antitrust regulator fines Google $593 million for not adequately participating in dispute resolution talks with French news publishers.
+ - Governor Jared Polis signs the Colorado data privacy bill into law. Colorado is now the third US state to have a comprehensive data privacy law, following Virginia and California.
+ - The Chinese government removed Didi (ride-hailing app) from app stores citing concerns over consumer data collection. The Cyberspace Administration of China took these actions days after Didi went public on the New York Stock Exchange.
+ - The first public FTC meeting under Chair Lina Khan was held on July 1st. The Commission voted 3-2 to rescind the 2015 Section 5 policy statement that upheld the consumer welfare standard as a guiding principle.
+ - A US district court judge dismissed the FTC's antitrust complaint against Facebook. In his opinion, the Judge claimed that the FTC had not presented enough facts to show that Facebook has monopoly power.
+  
+  <br>
 
 <H2>Key Tech-Related Regulatory Changes in China, Europe and the US</H2>
 <center><iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VILrv712jmHpwZ5K_T0dDxYw-fzYb023bBTdxqUGo80&font=Default&lang=en&start_at_end=true&initial_zoom=1&height=650" width="100%" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe></center>
