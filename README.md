@@ -44,9 +44,7 @@ As a complement, <b>the timeline below documents the most important Tech-related
  - The Chinese government removed Didi (ride-hailing app) from app stores citing concerns over consumer data collection. The Cyberspace Administration of China took these actions days after Didi went public on the New York Stock Exchange.
  - The first public FTC meeting under Chair Lina Khan was held on July 1st. The Commission voted 3-2 to rescind the 2015 Section 5 policy statement that upheld the consumer welfare standard as a guiding principle.
  - A US district court judge dismissed the FTC's antitrust complaint against Facebook. In his opinion, the Judge claimed that the FTC had not presented enough facts to show that Facebook has monopoly power.
-  
-  <br>
-
+    <br>
 <H2>Key Tech-Related Regulatory Changes in China, Europe and the US</H2>
 <center><iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VILrv712jmHpwZ5K_T0dDxYw-fzYb023bBTdxqUGo80&font=Default&lang=en&start_at_end=true&initial_zoom=1&height=650" width="100%" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe></center>
 Source: Milken Institute Research Department
