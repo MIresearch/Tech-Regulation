@@ -39,7 +39,9 @@ In the report <b><a href="https://milkeninstitute.org/reports/share-data-tech-re
 
 As a complement, <b>the timeline below documents the most important Tech-related regulatory developments in China, Europe, & U.S.</b> <br>
 <H2> TechReg news recap July </H2>
-<a class="twitter-timeline" data-width="90%" data-height="450" href="https://twitter.com/mi_researchdpt/timelines/1426246650754834437?ref_src=twsrc%5Etfw">Tech Reg - Jul 2021 - Curated tweets by mi_researchdpt</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+  <a class="twitter-timeline" data-width="90%" data-height="450" href="https://twitter.com/mi_researchdpt/timelines/1426246650754834437?ref_src=twsrc%5Etfw" data-chrome="noheader">Curated tweets by mi_researchdpt</a> <script async src="https://platform.twitter.com/widgets.js"
+ charset="utf-8"></script>
   
     <br>
 <H2>Key Tech-Related Regulatory Changes in China, Europe and the US</H2>
