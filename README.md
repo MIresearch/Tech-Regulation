@@ -48,7 +48,7 @@ As a complement, <b>the timeline below documents the most important Tech-related
 <center><iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VILrv712jmHpwZ5K_T0dDxYw-fzYb023bBTdxqUGo80&font=Default&lang=en&start_at_end=true&initial_zoom=1&height=650" width="100%" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe></center>
 Source: Milken Institute Research Department
 
-<H2>Related Work  </H2>
+<H2><b>Related Work </b> </H2>
 -<a href="https://www.peterlang.com/view/9783034342919/9783034342919.00015.xml" target="_blank"> Digital Currency: A Global Regulatory Framework is Needed </a> <br>
 -<a href="https://www.orfonline.org/expert-speak/principles-financial-regulation-big-tech/" target="_blank"> Principles of financial regulation for Big Tech </a> <br>
 -<a href="https://www.milkenreview.org/articles/the-promise-and-peril-of-digital-currency-in-a-global-economy" target="_blank"> The Promise and Peril of Digital Currency in a Global Economy</a> <br>
