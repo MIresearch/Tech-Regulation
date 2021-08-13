@@ -38,13 +38,13 @@ Policy discussions and initiatives related to the economy's digitalization are o
 In the report <b><a href="https://milkeninstitute.org/reports/share-data-tech-regulation" target="_blank">"Share the Data: Overcoming Trade-Offs in Tech Regulation" </a></b> we discuss how cross-border consistency in data sharing standards, combining data portability, platforms’ interoperability, and data reciprocity, could restore consumer choice and strengthen competition in tech companies’ different economic sectors. We outline how giving consumers greater opportunities to control their data can mitigate concerns related to antitrust, financial stability, and privacy.
 
 As a complement, <b>the timeline below documents the most important Tech-related regulatory developments in China, Europe, & U.S.</b> <br>
-<H2> TechReg news recap July </H2>
+<H2> <b>TechReg news recap July</b> </H2>
 
-  <a class="twitter-timeline" data-width="90%" data-height="450" href="https://twitter.com/mi_researchdpt/timelines/1426246650754834437?ref_src=twsrc%5Etfw" data-chrome="noheader">Curated tweets by mi_researchdpt</a> <script async src="https://platform.twitter.com/widgets.js"
+  <a class="twitter-timeline" data-width="80%" data-height="350" href="https://twitter.com/mi_researchdpt/timelines/1426246650754834437?ref_src=twsrc%5Etfw" data-chrome="noheader">Curated tweets by mi_researchdpt</a> <script async src="https://platform.twitter.com/widgets.js"
  charset="utf-8"></script>
   
     <br>
-<H2>Key Tech-Related Regulatory Changes in China, Europe and the US</H2>
+<H2><b>Key Tech-Related Regulatory Changes in China, Europe and the US</b></H2>
 <center><iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VILrv712jmHpwZ5K_T0dDxYw-fzYb023bBTdxqUGo80&font=Default&lang=en&start_at_end=true&initial_zoom=1&height=650" width="100%" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe></center>
 Source: Milken Institute Research Department
 
