@@ -39,11 +39,8 @@ In the report <b><a href="https://milkeninstitute.org/reports/share-data-tech-re
 
 As a complement, <b>the timeline below documents the most important Tech-related regulatory developments in China, Europe, & U.S.</b>
 <H2> TechReg news recap June/July </H2>
- - France's antitrust regulator fines Google $593 million for not adequately participating in dispute resolution talks with French news publishers.
- - Governor Jared Polis signs the Colorado data privacy bill into law. Colorado is now the third US state to have a comprehensive data privacy law, following Virginia and California.
- - The Chinese government removed Didi (ride-hailing app) from app stores citing concerns over consumer data collection. The Cyberspace Administration of China took these actions days after Didi went public on the New York Stock Exchange.
- - The first public FTC meeting under Chair Lina Khan was held on July 1st. The Commission voted 3-2 to rescind the 2015 Section 5 policy statement that upheld the consumer welfare standard as a guiding principle.
- - A US district court judge dismissed the FTC's antitrust complaint against Facebook. In his opinion, the Judge claimed that the FTC had not presented enough facts to show that Facebook has monopoly power.
+<a class="twitter-timeline" data-width="600" data-height="450" href="https://twitter.com/mi_researchdpt/timelines/1426246650754834437?ref_src=twsrc%5Etfw">Tech Reg - Jul 2021 - Curated tweets by mi_researchdpt</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  
     <br>
 <H2>Key Tech-Related Regulatory Changes in China, Europe and the US</H2>
 <center><iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VILrv712jmHpwZ5K_T0dDxYw-fzYb023bBTdxqUGo80&font=Default&lang=en&start_at_end=true&initial_zoom=1&height=650" width="100%" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe></center>
