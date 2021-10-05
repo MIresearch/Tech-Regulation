@@ -49,7 +49,7 @@ As a complement, <b>the timeline below documents the most important Tech-related
 Source: Milken Institute Research Department
 
 <H2><b>Related Work </b> </H2>
--<a href="https://www.t20italy.org/2021/08/31/the-emergence-of-new-monies-and-the-need-to-prepare-the-financial-system-for-the-digital-age/" target="_blank"> The Emergence of New Monies and the Need to Prepare the Financial System for Digital Age
+-<a href="https://www.t20italy.org/2021/08/31/the-emergence-of-new-monies-and-the-need-to-prepare-the-financial-system-for-the-digital-age/" target="_blank"> The Emergence of New Monies and the Need to Prepare the Financial System for Digital Age</a> <br>
 -<a href="https://www.peterlang.com/view/9783034342919/9783034342919.00015.xml" target="_blank"> Digital Currency: A Global Regulatory Framework is Needed </a> <br>
 -<a href="https://www.orfonline.org/expert-speak/principles-financial-regulation-big-tech/" target="_blank"> Principles of financial regulation for Big Tech </a> <br>
 -<a href="https://www.milkenreview.org/articles/the-promise-and-peril-of-digital-currency-in-a-global-economy" target="_blank"> The Promise and Peril of Digital Currency in a Global Economy</a> <br>
