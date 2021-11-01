@@ -40,9 +40,8 @@ In the report <b><a href="https://milkeninstitute.org/reports/share-data-tech-re
 As a complement, <b>the timeline below documents the most important Tech-related regulatory developments in China, Europe, & U.S.</b> <br>
 <H2> <b>TechReg monthly recap</b> </H2>
 
-  <a class="twitter-timeline" data-width="80%" data-height="350" href="https://twitter.com/mi_researchdpt/lists/1445130157509931008?ref_src=twsrc%5Etfw" data-chrome="noheader">Curated tweets by mi_researchdpt</a> <script async src="https://platform.twitter.com/widgets.js"
- charset="utf-8"></script>
-  
+  <a class="twitter-timeline" data-width="80%" data-height="350" href="https://twitter.com/mi_researchdpt/timelines/1455276651621670915?ref_src=twsrc%5Etfw" data-chrome="noheader">Curated tweets by mi_researchdpt</a> <script async src="https://platform.twitter.com/widgets.js"
+  charset="utf-8"></script>
    
 <H2><b>Key Tech-Related Regulatory Changes in China, Europe and the US</b></H2>
 <center><iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VILrv712jmHpwZ5K_T0dDxYw-fzYb023bBTdxqUGo80&font=Default&lang=en&start_at_end=true&initial_zoom=1&height=650" width="100%" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe></center>
