@@ -41,11 +41,11 @@ In the report <b><a href="https://milkeninstitute.org/reports/share-data-tech-re
   
 <H2><b>TechReg Digest Newsletter</b></H2>
   
-<H4><b>[January 2022: Clamping Down: Tech M&A in the US](assets/TechDigest_Jan22.pdf)</b><H4>
+<H4><b><a href="assets/TechDigest_Jan22.pdf" target="_blank">January 2022: Clamping Down: Tech M&A in the US</a></b><H4>
 
-<H4><b>December 2021: New York State's Social Media Bill & Section 230</b></H4>
+<H4><b><a href="assets/TechDigest_Dec21.pdf" target="_blank">December 2021: New York State's Social Media Bill & Section 230</a></b></H4>
   
-<H4><b>November 2021: Enforcing the EU's New Competition Rules</b></H4>
+<H4><b><a href="assets/TechDifest_Nov21.pdf" target="_blank">November 2021: Enforcing the EU's New Competition Rules</a></b></H4>
 <br>
 <br>
   
