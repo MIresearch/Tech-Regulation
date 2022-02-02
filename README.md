@@ -31,18 +31,25 @@ alt="Web Analytics"></a></div></noscript>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
 
-<H2><b> Tech Regulation Tracker</b> </H2> <Hr>
+<H2><b> Tech Regulation Project</b> </H2> <Hr>
 
-Policy discussions and initiatives related to the economy's digitalization are omnipresent nowadays. Big Tech companies have gained a lot of attention from regulators and legislators on data privacy, antitrust, cybersecurity and financial stability issues. The recent pandemic highlighted other tech-related issues, such as digital divide, racial equity, freedom of speech and the need for international technology governance.
+Policy discussions and initiatives related to the economy's digitalization are omnipresent nowadays. Large tech companies have gained a lot of attention from regulators and legislators on data privacy, antitrust, cybersecurity and financial stability issues. The recent pandemic highlighted other tech-related issues, such as digital divide, racial equity, freedom of speech and the need for international technology governance.
 
 In the report <b><a href="https://milkeninstitute.org/reports/share-data-tech-regulation" target="_blank">"Share the Data: Overcoming Trade-Offs in Tech Regulation" </a></b> we discuss how cross-border consistency in data sharing standards, combining data portability, platforms’ interoperability, and data reciprocity, could restore consumer choice and strengthen competition in tech companies’ different economic sectors. We outline how giving consumers greater opportunities to control their data can mitigate concerns related to antitrust, financial stability, and privacy.
 
-As a complement, <b>the timeline below documents the most important Tech-related regulatory developments in China, Europe, & U.S.</b> <br>
-<H2> <b>TechReg monthly recap</b> </H2>
+<b>We now publish a monthly newsletter that looks in depth at the most important tech regulation issue of the month. See below for our entire Tech Regulation Digest repository.</b>
+  
+<H2><b>Tech Regulation Digest Newsletter</b></H2>
+  
+<H3><b>January 2022
 
-  <a class="twitter-timeline" data-width="80%" data-height="350" href="https://twitter.com/mi_researchdpt/timelines/1455276651621670915?ref_src=twsrc%5Etfw" data-chrome="noheader">Curated tweets by mi_researchdpt</a> <script async src="https://platform.twitter.com/widgets.js"
-  charset="utf-8"></script>
-   
+December 2021
+  
+November 2021
+
+  
+As an additional resource, <b>the timeline and table below documents the major legislative & regulatory milestones impacting the tech sector in the US, Europe, and China since 2017.</b> <br>
+  
 <H2><b>Key Tech-Related Regulatory Changes in China, Europe and the US</b></H2>
 <center><iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VILrv712jmHpwZ5K_T0dDxYw-fzYb023bBTdxqUGo80&font=Default&lang=en&start_at_end=true&initial_zoom=1&height=650" width="100%" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe></center>
 Source: Milken Institute Research Department
