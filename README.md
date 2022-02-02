@@ -53,8 +53,6 @@ As an additional resource, <b>the timeline and table below documents the major l
   
 <H2><b>Tech Regulation Tracker</b></H2>
 <center><iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VILrv712jmHpwZ5K_T0dDxYw-fzYb023bBTdxqUGo80&font=Default&lang=en&start_at_end=true&initial_zoom=1&height=650" width="100%" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe></center>
-
-<center><iframe title="Tech Regulation Tracker" aria-label="Table" id="datawrapper-chart-syq3b" src="https://datawrapper.dwcdn.net/syq3b/9/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="7523" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
 Source: Milken Institute Research Department
 
 <H2><b>Related Work </b> </H2>
