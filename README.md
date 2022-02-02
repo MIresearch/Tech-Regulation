@@ -46,7 +46,8 @@ In the report <b><a href="https://milkeninstitute.org/reports/share-data-tech-re
 <H3><b>December 2021: New York State's Social Media Bill & Section 230</b></H3>
   
 <H3><b>November 2021: Enforcing the EU's New Competition Rules</b></H3>
-
+<br>
+<br>
   
 As an additional resource, <b>the timeline and table below documents the major legislative & regulatory milestones impacting the tech sector in the US, Europe, and China since 2017.</b> <br>
   
