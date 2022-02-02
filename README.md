@@ -45,7 +45,7 @@ In the report <b><a href="https://milkeninstitute.org/reports/share-data-tech-re
 
 <H4><b><a href="assets/TechDigest_Dec21.pdf" target="_blank">December 2021: New York State's Social Media Bill & Section 230</a></b></H4>
   
-<H4><b><a href="assets/TechDifest_Nov21.pdf" target="_blank">November 2021: Enforcing the EU's New Competition Rules</a></b></H4>
+<H4><b><a href="assets/TechDigest_Nov21.pdf" target="_blank">November 2021: Enforcing the EU's New Competition Rules</a></b></H4>
 <br>
 <br>
   
