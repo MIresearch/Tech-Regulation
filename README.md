@@ -37,7 +37,7 @@ Policy discussions and initiatives related to the economy's digitalization are o
 
 In the report <b><a href="https://milkeninstitute.org/reports/share-data-tech-regulation" target="_blank">"Share the Data: Overcoming Trade-Offs in Tech Regulation" </a></b> we discuss how cross-border consistency in data sharing standards, combining data portability, platforms’ interoperability, and data reciprocity, could restore consumer choice and strengthen competition in tech companies’ different economic sectors. We outline how giving consumers greater opportunities to control their data can mitigate concerns related to antitrust, financial stability, and privacy.
 
-<b>We now publish <b><a href="https://milkeninstitute.org/research-department/international-finance/tech-regulation-tracker" target="_blank">a monthly newsletter that looks in depth at the most important tech regulation issue of the month </a>. </b>
+We now publish <b><a href="https://milkeninstitute.org/research-department/international-finance/tech-regulation-tracker" target="_blank">a monthly newsletter that looks in depth at the most important tech regulation issue of the month </a>. </b>
   <br>
   
 <b>The timeline </b> below documents the major legislative & regulatory milestones impacting the tech sector in the US, Europe, and China since 2017. <br>
