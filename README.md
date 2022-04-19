@@ -39,14 +39,7 @@ In the report <b><a href="https://milkeninstitute.org/reports/share-data-tech-re
 
 <b>We now publish a monthly newsletter that looks in depth at the most important tech regulation issue of the month. See below for our entire TechReg Digest repository:</b>
   
-<H2><b>TechReg Digest Newsletter</b></H2>
-  
-<H4><b><a href="assets/TechDigest_Jan22.pdf" target="_blank">January 2022: Clamping Down: Tech M&A in the US</a></b><H4>
 
-<H4><b><a href="assets/TechDigest_Dec21.pdf" target="_blank">December 2021: New York State's Social Media Bill & Section 230</a></b></H4>
-  
-<H4><b><a href="assets/TechDigest_Nov21.pdf" target="_blank">November 2021: Enforcing the EU's New Competition Rules</a></b></H4>
-<br>
 <br>
   
 As an additional resource, <b>the timeline below documents the major legislative & regulatory milestones impacting the tech sector in the US, Europe, and China since 2017.</b> <br>
@@ -54,7 +47,12 @@ As an additional resource, <b>the timeline below documents the major legislative
 <H2><b>Tech Regulation Tracker</b></H2>
 <center><iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VILrv712jmHpwZ5K_T0dDxYw-fzYb023bBTdxqUGo80&font=Default&lang=en&start_at_end=true&initial_zoom=1&height=650" width="100%" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe></center>
 Source: Milken Institute Research Department
+<H2><b>TechReg Digest Newsletter</b></H2>
+ 
+  <br> 
+<H4><b><a href="https://milkeninstitute.org/research-department/international-finance/tech-regulation-tracker" target="_blank">TechReg Digest can be found here</a></b><H4>
 
+<br>
 <H2><b>Related Work </b> </H2>
 -<a href="https://www.t20italy.org/2021/08/31/the-emergence-of-new-monies-and-the-need-to-prepare-the-financial-system-for-the-digital-age/" target="_blank"> The Emergence of New Monies and the Need to Prepare the Financial System for Digital Age</a> <br>
 -<a href="https://www.peterlang.com/view/9783034342919/9783034342919.00015.xml" target="_blank"> Digital Currency: A Global Regulatory Framework is Needed </a> <br>
