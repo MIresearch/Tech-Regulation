@@ -47,7 +47,6 @@ In the report <b><a href="https://milkeninstitute.org/reports/share-data-tech-re
 <H2><b>Tech Regulation Tracker</b></H2>
 <center><iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VILrv712jmHpwZ5K_T0dDxYw-fzYb023bBTdxqUGo80&font=Default&lang=en&start_at_end=true&initial_zoom=1&height=650" width="100%" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe></center>
 Source: Milken Institute Research Department
-<H2><b>TechReg Digest Newsletter</b></H2>
  
   <br> 
 
