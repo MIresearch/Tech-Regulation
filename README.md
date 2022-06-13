@@ -31,18 +31,18 @@ alt="Web Analytics"></a></div></noscript>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
 
-<H2><b> Tech Regulation Project</b> </H2> <Hr>
+<H2><b> Tech Policy Project</b> </H2> <Hr>
 
 Policy discussions and initiatives related to the economy's digitalization are omnipresent nowadays. Large tech companies have gained a lot of attention from regulators and legislators on data privacy, antitrust, cybersecurity and financial stability issues. The recent pandemic highlighted other tech-related issues, such as digital divide, racial equity, freedom of speech and the need for international technology governance.
 
 In the report <b><a href="https://milkeninstitute.org/reports/share-data-tech-regulation" target="_blank">"Share the Data: Overcoming Trade-Offs in Tech Regulation" </a></b> we discuss how cross-border consistency in data sharing standards, combining data portability, platforms’ interoperability, and data reciprocity, could restore consumer choice and strengthen competition in tech companies’ different economic sectors. We outline how giving consumers greater opportunities to control their data can mitigate concerns related to antitrust, financial stability, and privacy.
 
-We now publish <b><a href="https://milkeninstitute.org/research-department/international-finance/tech-regulation-tracker" target="_blank">a monthly newsletter that looks in depth at the most important tech regulation issue of the month </a>. </b>
+We now publish <b><a href="https://milkeninstitute.org/research-department/international-finance/tech-regulation-tracker" target="_blank">a monthly newsletter that looks in depth at the most important tech policy issue of the month </a>. </b>
   <br>
   
-<b>The timeline </b> below documents the major legislative & regulatory milestones impacting the tech sector in the US, Europe, and China since 2017. <br>
+<b>The timeline </b> below documents the major policy changes impacting the tech sector in the US, Europe, and China since 2017. <br>
   
-<H2><b>Tech Regulation Tracker</b></H2>
+<H2><b>Tech Policy Tracker</b></H2>
 <center><iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VILrv712jmHpwZ5K_T0dDxYw-fzYb023bBTdxqUGo80&font=Default&lang=en&start_at_end=true&initial_zoom=1&height=650" width="100%" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe></center>
 Source: Milken Institute Research Department
  
